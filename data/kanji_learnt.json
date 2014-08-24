@@ -1521,5 +1521,40 @@
         "onyomi": [
             ""
         ]
+    },
+    {
+        "added": "2014-08-24",
+        "english": "looks like",
+        "kanji": "態",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "たい",
+            "わざ"
+        ]
+    },
+    {
+        "added": "2014-08-24",
+        "english": "buddha",
+        "kanji": "仏",
+        "kunyomi": [
+            "ほとけ"
+        ],
+        "onyomi": [
+            "ぶつ",
+            "ふつ"
+        ]
+    },
+    {
+        "added": "2014-08-24",
+        "english": "stand up",
+        "kanji": "立",
+        "kunyomi": [
+            "た"
+        ],
+        "onyomi": [
+            "りつ"
+        ]
     }
 ]
