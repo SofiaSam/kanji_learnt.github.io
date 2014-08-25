@@ -10,7 +10,8 @@ $(function () {
         if (!(dataSet.hasOwnProperty(kana))) {
             dataSet[kana] = [kanji];
         }
-        if (dataSet.hasOwnProperty(kana) && (dataSet[kana].indexOf(kanji) === -1)) { dataSet[kana].push(kanji);
+        if (dataSet.hasOwnProperty(kana) && (dataSet[kana].indexOf(kanji) === -1)) {
+            dataSet[kana].push(kanji);
         }
     }
 
@@ -109,7 +110,11 @@ $(function () {
     // 1. Fetch data
     $.getJSON('data/kanji_learnt.json').done(function (data) {
         var today = new Date(),
-            now_time = " " + today.getHours() + ":" + today.getMinutes();
+            now_time = " " + today.getHours() + ":" + today.getMinutes(),
+            completionEstimate,
+            nbDaysLater = 0,
+            sumKanji = 0,
+            groupBy;
 
         // 2. Manipulate data
         $.map(data, function (el) {
@@ -183,10 +188,7 @@ $(function () {
         });
 
         // 5. Set history chart
-        var completionEstimate,
-            nbDaysLater = 0,
-            sumKanji = 0,
-            groupBy = _.groupBy(data.reverse(), function (obj) {return obj.added; });
+        groupBy = _.groupBy(data.reverse(), function (obj) {return obj.added; });
 
         nbDaysLater = Math.floor(1760 * Object.keys(groupBy).length / data.length);
         completionEstimate = new Date(today);
