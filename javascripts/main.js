@@ -263,7 +263,7 @@ $(function () {
             ratios[i] = ratio_span;
         }
         // Actually we're happy with more words in long term
-        data.today['long term'].toggleClass('red green');
+        ratios[3].toggleClass('red green');
         today.html('Reviews to do within a day: <strong>' + data.today.today + '</strong>').append(ratios[0]);
         week.html('Other reviews within a week: ' + data.today['next week']).append(ratios[1]);
         month.html('Other reviews within a month: ' + data.today['next month']).append(ratios[2]);
