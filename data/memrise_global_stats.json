@@ -1,0 +1,16 @@
+{
+    "yesterday": {
+        "next week": 486, 
+        "long term": 97, 
+        "next month": 621, 
+        "today": 240, 
+        "not learnt": 12
+    }, 
+    "today": {
+        "next week": 447, 
+        "long term": 136, 
+        "not learnt": 12, 
+        "today": 240, 
+        "next month": 621
+    }
+}
