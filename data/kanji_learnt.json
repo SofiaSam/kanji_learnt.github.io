@@ -1556,5 +1556,40 @@
         "onyomi": [
             "りつ"
         ]
+    },
+    {
+        "added": "2014-08-25",
+        "english": "spicy / painful",
+        "kanji": "辛",
+        "kunyomi": [
+            "から",
+            "つら"
+        ],
+        "onyomi": [
+            "しん"
+        ]
+    },
+    {
+        "added": "2014-08-25",
+        "english": "luck, happiness",
+        "kanji": "幸",
+        "kunyomi": [
+            "しあわ",
+            "さいわ"
+        ],
+        "onyomi": [
+            "こう"
+        ]
+    },
+    {
+        "added": "2014-08-25",
+        "english": "manager",
+        "kanji": "宰",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "さい"
+        ]
     }
 ]
