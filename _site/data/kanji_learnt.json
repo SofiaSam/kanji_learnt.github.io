@@ -1384,5 +1384,177 @@
         "onyomi": [
             "けん"
         ]
+    },
+    {
+        "added": "2014-08-22",
+        "english": "eight",
+        "kanji": "八",
+        "kunyomi": [
+            "や",
+            "よう"
+        ],
+        "onyomi": [
+            "はち"
+        ]
+    },
+    {
+        "added": "2014-08-22",
+        "english": "hole",
+        "kanji": "穴",
+        "kunyomi": [
+            "あな"
+        ],
+        "onyomi": [
+            "けつ"
+        ]
+    },
+    {
+        "added": "2014-08-22",
+        "english": "six",
+        "kanji": "六",
+        "kunyomi": [
+            "む"
+        ],
+        "onyomi": [
+            "ろく"
+        ]
+    },
+    {
+        "added": "2014-08-22",
+        "english": "run parallel to",
+        "kanji": "沿",
+        "kunyomi": [
+            "そ"
+        ],
+        "onyomi": [
+            "えん"
+        ]
+    },
+    {
+        "added": "2014-08-22",
+        "english": "public",
+        "kanji": "公",
+        "kunyomi": [
+            "おおやけ"
+        ],
+        "onyomi": [
+            "こう"
+        ]
+    },
+    {
+        "added": "2014-08-22",
+        "english": "lawsuit",
+        "kanji": "訟",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "しょう"
+        ]
+    },
+    {
+        "added": "2014-08-23",
+        "english": "big thing counter",
+        "kanji": "台",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "だい",
+            "たい"
+        ]
+    },
+    {
+        "added": "2014-08-23",
+        "english": "cure",
+        "kanji": "治",
+        "kunyomi": [
+            "なお",
+            "おさ"
+        ],
+        "onyomi": [
+            "じ",
+            "ち"
+        ]
+    },
+    {
+        "added": "2014-08-23",
+        "english": "begin",
+        "kanji": "始",
+        "kunyomi": [
+            "はじ"
+        ],
+        "onyomi": [
+            "し"
+        ]
+    },
+    {
+        "added": "2014-08-23",
+        "english": "lazy",
+        "kanji": "怠",
+        "kunyomi": [
+            "なま",
+            "おこた"
+        ],
+        "onyomi": [
+            "たい"
+        ]
+    },
+    {
+        "added": "2014-08-23",
+        "english": "talent",
+        "kanji": "能",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "のう"
+        ]
+    },
+    {
+        "added": "2014-08-23",
+        "english": "bear",
+        "kanji": "熊",
+        "kunyomi": [
+            "くま"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-08-24",
+        "english": "looks like",
+        "kanji": "態",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "たい",
+            "わざ"
+        ]
+    },
+    {
+        "added": "2014-08-24",
+        "english": "buddha",
+        "kanji": "仏",
+        "kunyomi": [
+            "ほとけ"
+        ],
+        "onyomi": [
+            "ぶつ",
+            "ふつ"
+        ]
+    },
+    {
+        "added": "2014-08-24",
+        "english": "stand up",
+        "kanji": "立",
+        "kunyomi": [
+            "た"
+        ],
+        "onyomi": [
+            "りつ"
+        ]
     }
 ]

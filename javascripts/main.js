@@ -144,7 +144,7 @@ $(function () {
             b = new Date(b.added);
             return a > b ? -1 : a < b ? 1 : 0;
         });
-        sortedData.slice(0, 12).forEach(function (obj) {
+        sortedData.slice(0, 7).forEach(function (obj) {
             var i, date, days_ago, kanji, details = " (", katakana = [];
             for (i = 0; i < obj.onyomi.length; i += 1) {
                 katakana.push(hiragana2katakana(obj.onyomi[i]));
@@ -180,7 +180,7 @@ $(function () {
                 .append(date)
                 .append(kanji)
                 .append(details)
-                .appendTo('#latest_kanji>ul');
+                .appendTo('#latest_kanji>ul.latest_kanji');
         });
 
         // 5. Set history chart
@@ -227,15 +227,36 @@ $(function () {
             q: 'select * from html where url="http://kanjidamage.com/kanji" and xpath="//tr"',
             format: 'json'
         }, function (content) {
-            var tr, position;
+            var tr, position,
+                kanjidamage = $(document.createElement('div'));
             tr = _.find(_.flatten(content.query.results), function (element) {
                 return element.td[1].a.content === data[data.length - 1].kanji;
             });
             position = tr.td[0].p;
-            $('.spinner')
-                .hide()
-                .after("KanjiDamage position: <strong>" + position + "</strong>/1760");
+            kanjidamage
+                .html("KanjiDamage position: <strong>" + position + "</strong>/1760")
+                .className = 'kanji_damage';
+            $('.spinner').hide().after(kanjidamage);
         });
+    });
+    $.getJSON('data/memrise_global_stats.json').done(function (data) {
+        var today = $(document.createElement('li'))
+            .html('Today reviews: <strong>' + data.today + '</strong>'),
+            week = $(document.createElement('li'))
+            .html('Other reviews within a week: ' + data['next week']),
+            month = $(document.createElement('li'))
+            .html('Other reviews within a month: ' + data['next month']),
+            long_term = $(document.createElement('li'))
+            .html('Other reviews after a month: ' + data['long term']),
+            not_learnt = $(document.createElement('li'))
+            .html('To learn: ' + data['not learnt']);
+
+        $("#memrise")
+            .append(today)
+            .append(week)
+            .append(month)
+            .append(long_term)
+            .append(not_learnt);
     });
 });
 /*jslint nomen: false*/
