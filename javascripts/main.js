@@ -10,8 +10,7 @@ $(function () {
         if (!(dataSet.hasOwnProperty(kana))) {
             dataSet[kana] = [kanji];
         }
-        if (dataSet.hasOwnProperty(kana) && (dataSet[kana].indexOf(kanji) === -1)) {
-            dataSet[kana].push(kanji);
+        if (dataSet.hasOwnProperty(kana) && (dataSet[kana].indexOf(kanji) === -1)) { dataSet[kana].push(kanji);
         }
     }
 
@@ -263,7 +262,9 @@ $(function () {
             ratio_span.addClass((ratios[i] > 0) ? 'red' : 'green');
             ratios[i] = ratio_span;
         }
-        today.html('Today reviews: <strong>' + data.today.today + '</strong>').append(ratios[0]);
+        // Actually we're happy with more words in long term
+        data.today['long term'].toggleClass('red green');
+        today.html('Reviews to do within a day: <strong>' + data.today.today + '</strong>').append(ratios[0]);
         week.html('Other reviews within a week: ' + data.today['next week']).append(ratios[1]);
         month.html('Other reviews within a month: ' + data.today['next month']).append(ratios[2]);
         long_term.html('Other reviews after a month: ' + data.today['long term']).append(ratios[3]);
