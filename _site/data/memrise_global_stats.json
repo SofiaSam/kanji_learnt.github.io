@@ -1,1 +1,4 @@
-{"next week": 486, "long term": 97, "not learnt": 12, "today": 240, "next month": 621}
+{
+    "yesterday": {"next week": 386, "long term": 67, "not learnt": 12, "today": 190, "next month": 671},
+    "today": {"next week": 486, "long term": 97, "not learnt": 12, "today": 240, "next month": 621}
+}

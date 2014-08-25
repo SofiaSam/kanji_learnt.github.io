@@ -240,16 +240,34 @@ $(function () {
         });
     });
     $.getJSON('data/memrise_global_stats.json').done(function (data) {
-        var today = $(document.createElement('li'))
-            .html('Today reviews: <strong>' + data.today + '</strong>'),
-            week = $(document.createElement('li'))
-            .html('Other reviews within a week: ' + data['next week']),
-            month = $(document.createElement('li'))
-            .html('Other reviews within a month: ' + data['next month']),
-            long_term = $(document.createElement('li'))
-            .html('Other reviews after a month: ' + data['long term']),
-            not_learnt = $(document.createElement('li'))
-            .html('To learn: ' + data['not learnt']);
+        var i,
+            plus_marker,
+            ratio_span,
+            ratios = [
+                data.today.today - data.yesterday.today,
+                data.today['next week'] - data.yesterday['next week'],
+                data.today['next month'] - data.yesterday['next month'],
+                data.today['long term'] - data.yesterday['long term'],
+                data.today['not learnt'] - data.yesterday['not learnt']
+            ],
+            today = $(document.createElement('li')),
+            week = $(document.createElement('li')),
+            month = $(document.createElement('li')),
+            long_term = $(document.createElement('li')),
+            not_learnt = $(document.createElement('li'));
+
+        for (i = 0; i < ratios.length; i += 1) {
+            plus_marker = (ratios[i] > 0) ? '+' : '';
+            ratio_span = $(document.createElement('span'))
+                .text(' [' + plus_marker + ratios[i] + ']');
+            ratio_span.addClass((ratios[i] > 0) ? 'red' : 'green');
+            ratios[i] = ratio_span;
+        }
+        today.html('Today reviews: <strong>' + data.today.today + '</strong>').append(ratios[0]);
+        week.html('Other reviews within a week: ' + data.today['next week']).append(ratios[1]);
+        month.html('Other reviews within a month: ' + data.today['next month']).append(ratios[2]);
+        long_term.html('Other reviews after a month: ' + data.today['long term']).append(ratios[3]);
+        not_learnt.html('To learn: ' + data.today['not learnt']).append(ratios[4]);
 
         $("#memrise")
             .append(today)
