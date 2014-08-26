@@ -244,18 +244,32 @@ $(function () {
         var i,
             plus_marker,
             ratio_span,
-            ratios = [
-                data.today.today - data.yesterday.today,
-                data.today['next week'] - data.yesterday['next week'],
-                data.today['next month'] - data.yesterday['next month'],
-                data.today['long term'] - data.yesterday['long term'],
-                data.today['not learnt'] - data.yesterday['not learnt']
-            ],
+            ratios,
+            key_yesterday,
+            key_today = new Date(),
+            y = key_today.getUTCFullYear(),
+            m = key_today.getUTCMonth() + 1,
+            d = key_today.getUTCDate(),
             today = $(document.createElement('li')),
             week = $(document.createElement('li')),
             month = $(document.createElement('li')),
             long_term = $(document.createElement('li')),
             not_learnt = $(document.createElement('li'));
+
+        m = (m < 10) ? "0" + m : m;
+        d = (d < 10) ? "0" + d : d;
+        key_today = y + "-" + m + "-" + d;
+        d -= 1;
+        d = (d < 10) ? "0" + d : d;
+        key_yesterday = y + "-" + m + "-" + d;
+        ratios = [
+            data[key_today].today - data[key_yesterday].today,
+            data[key_today]['next week'] - data[key_yesterday]['next week'],
+            data[key_today]['next month'] - data[key_yesterday]['next month'],
+            data[key_today]['long term'] - data[key_yesterday]['long term'],
+            data[key_today]['not learnt'] - data[key_yesterday]['not learnt']
+        ];
+
 
         for (i = 0; i < ratios.length; i += 1) {
             plus_marker = (ratios[i] > 0) ? '+' : '';
@@ -266,11 +280,11 @@ $(function () {
         }
         // Actually we're happy with more words in long term
         ratios[3].toggleClass('red green');
-        today.html('Reviews to do within a day: <strong>' + data.today.today + '</strong>').append(ratios[0]);
-        week.html('Other reviews within a week: ' + data.today['next week']).append(ratios[1]);
-        month.html('Other reviews within a month: ' + data.today['next month']).append(ratios[2]);
-        long_term.html('Other reviews after a month: ' + data.today['long term']).append(ratios[3]);
-        not_learnt.html('To learn: ' + data.today['not learnt']).append(ratios[4]);
+        today.html('Reviews to do within a day: <strong>' + data[key_today].today + '</strong>').append(ratios[0]);
+        week.html('Other reviews within a week: ' + data[key_today]['next week']).append(ratios[1]);
+        month.html('Other reviews within a month: ' + data[key_today]['next month']).append(ratios[2]);
+        long_term.html('Other reviews after a month: ' + data[key_today]['long term']).append(ratios[3]);
+        not_learnt.html('To learn: ' + data[key_today]['not learnt']).append(ratios[4]);
 
         $("#memrise")
             .append(today)
