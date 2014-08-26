@@ -1591,5 +1591,49 @@
         "onyomi": [
             "さい"
         ]
+    },
+    {
+        "added": "2014-08-26",
+        "english": "cry",
+        "kanji": "泣",
+        "kunyomi": [
+            "な"
+        ],
+        "onyomi": [
+            "きゅう"
+        ]
+    },
+    {
+        "added": "2014-08-26",
+        "english": "rank",
+        "kanji": "位",
+        "kunyomi": [
+            "くらい"
+        ],
+        "onyomi": [
+            "い"
+        ]
+    },
+    {
+        "added": "2014-08-26",
+        "english": "sound",
+        "kanji": "音",
+        "kunyomi": [
+            "おと"
+        ],
+        "onyomi": [
+            "おん"
+        ]
+    },
+    {
+        "added": "2014-08-26",
+        "english": "emblem / chapter",
+        "kanji": "章",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "しょう"
+        ]
     }
 ]
