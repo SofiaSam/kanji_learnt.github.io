@@ -1667,5 +1667,51 @@
         "onyomi": [
             "おく"
         ]
+    },
+    {
+        "added": "2014-08-28",
+        "english": "recollect",
+        "kanji": "憶",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "おく"
+        ]
+    },
+    {
+        "added": "2014-08-28",
+        "english": "gate",
+        "kanji": "門",
+        "kunyomi": [
+            "もん"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-08-28",
+        "english": "pitch-black darkness",
+        "kanji": "闇",
+        "kunyomi": [
+            "やみ"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-08-28",
+        "english": "a period of time",
+        "kanji": "間",
+        "kunyomi": [
+            "あいだ",
+            "ま"
+        ],
+        "onyomi": [
+            "かん",
+            "げん"
+        ]
     }
 ]
