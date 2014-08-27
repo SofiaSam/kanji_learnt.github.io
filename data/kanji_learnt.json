@@ -1634,5 +1634,38 @@
         "onyomi": [
             "しょう"
         ]
+    },
+    {
+        "added": "2014-08-27",
+        "english": "dark",
+        "kanji": "暗",
+        "kunyomi": [
+            "くら"
+        ],
+        "onyomi": [
+            "あん"
+        ]
+    },
+    {
+        "added": "2014-08-27",
+        "english": "meaning",
+        "kanji": "意",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "い"
+        ]
+    },
+    {
+        "added": "2014-08-27",
+        "english": "a hundred million",
+        "kanji": "億",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "おく"
+        ]
     }
 ]
