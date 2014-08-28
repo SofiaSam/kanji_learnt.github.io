@@ -1713,5 +1713,39 @@
             "かん",
             "げん"
         ]
+    },
+    {
+        "added": "2014-08-29",
+        "english": "question, problem",
+        "kanji": "問",
+        "kunyomi": [
+            "と"
+        ],
+        "onyomi": [
+            "もん"
+        ]
+    },
+    {
+        "added": "2014-08-29",
+        "english": "sword, saber, knife",
+        "kanji": "刀",
+        "kunyomi": [
+            "かたな"
+        ],
+        "onyomi": [
+            "とう",
+            "そり"
+        ]
+    },
+    {
+        "added": "2014-08-29",
+        "english": "before",
+        "kanji": "前",
+        "kunyomi": [
+            "まえ"
+        ],
+        "onyomi": [
+            "ぜん"
+        ]
     }
 ]
