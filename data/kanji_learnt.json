@@ -1747,5 +1747,49 @@
         "onyomi": [
             "ぜん"
         ]
+    },
+    {
+        "added": "2014-08-30",
+        "english": "cut / important",
+        "kanji": "切",
+        "kunyomi": [
+            "き"
+        ],
+        "onyomi": [
+            "せつ"
+        ]
+    },
+    {
+        "added": "2014-08-30",
+        "english": "summon",
+        "kanji": "召",
+        "kunyomi": [
+            "め"
+        ],
+        "onyomi": [
+            "しょう"
+        ]
+    },
+    {
+        "added": "2014-08-30",
+        "english": "shining / Showa era",
+        "kanji": "昭",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "しょう"
+        ]
+    },
+    {
+        "added": "2014-08-30",
+        "english": "contrast",
+        "kanji": "照",
+        "kunyomi": [
+            "て"
+        ],
+        "onyomi": [
+            "しょう"
+        ]
     }
 ]
