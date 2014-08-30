@@ -69,6 +69,9 @@ a:hover {
 .green {
   color: #006600;
 }
+.blue {
+  color: #000066;
+}
 
 header {
   padding-top: 35px;
@@ -302,7 +305,7 @@ blockquote {
 }
 
 ul li {
-  list-style: disc inside;
+  list-style: none
   padding-left: 20px;
 }
 
@@ -387,7 +390,7 @@ footer a:hover {
 
 #history_chart {
     min-width: 310px;
-    height: 400px;
+    height: 450px;
     margin: 0 auto 0 370px;
 }
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */

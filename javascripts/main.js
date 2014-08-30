@@ -254,6 +254,7 @@ $(function () {
             week = $(document.createElement('li')),
             month = $(document.createElement('li')),
             long_term = $(document.createElement('li')),
+            star = $(document.createElement('li')).addClass('blue'),
             not_learnt = $(document.createElement('li'));
 
         m = (m < 10) ? "0" + m : m;
@@ -267,6 +268,7 @@ $(function () {
             data[key_today]['next week'] - data[key_yesterday]['next week'],
             data[key_today]['next month'] - data[key_yesterday]['next month'],
             data[key_today]['long term'] - data[key_yesterday]['long term'],
+            data[key_today].star - data[key_yesterday].star,
             data[key_today]['not learnt'] - data[key_yesterday]['not learnt']
         ];
 
@@ -280,10 +282,12 @@ $(function () {
         }
         // Actually we're happy with more words in long term
         ratios[3].toggleClass('red green');
+        ratios[4].toggleClass('red green');
         today.html('Reviews to do within a day: <strong>' + data[key_today].today + '</strong>').append(ratios[0]);
         week.html('Other reviews within a week: ' + data[key_today]['next week']).append(ratios[1]);
         month.html('Other reviews within a month: ' + data[key_today]['next month']).append(ratios[2]);
         long_term.html('Other reviews after a month: ' + data[key_today]['long term']).append(ratios[3]);
+        star.html('Perfect score (3+ month): ' + data[key_today].star).append(ratios[4]);
         not_learnt.html('To learn: ' + data[key_today]['not learnt']).append(ratios[4]);
 
         $("#memrise")
@@ -291,6 +295,7 @@ $(function () {
             .append(week)
             .append(month)
             .append(long_term)
+            .append(star)
             .append(not_learnt);
     });
 });
