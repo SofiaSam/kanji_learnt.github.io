@@ -260,9 +260,7 @@ $(function () {
         m = (m < 10) ? "0" + m : m;
         d = (d < 10) ? "0" + d : d;
         key_today = y + "-" + m + "-" + d;
-        d -= 1;
-        d = (d < 10) ? "0" + d : d;
-        key_yesterday = y + "-" + m + "-" + d;
+        key_yesterday = new Date().toISOString().substring(0, 10);
         ratios = [
             data[key_today].today - data[key_yesterday].today,
             data[key_today]['next week'] - data[key_yesterday]['next week'],
