@@ -276,8 +276,8 @@ $(function () {
         for (i = 0; i < ratios.length; i += 1) {
             plus_marker = (ratios[i] > 0) ? '+' : '';
             ratio_span = $(document.createElement('span'))
-                .text(' [' + plus_marker + ratios[i] + ']');
-            ratio_span.addClass((ratios[i] > 0) ? 'red' : 'green');
+                .text(' [' + plus_marker + ((ratios[i] === 0) ? '-' : ratios[i]) + ']');
+            ratio_span.addClass((ratios[i] >= 0) ? 'red' : 'green');
             ratios[i] = ratio_span;
         }
         // Actually we're happy with more words in long term
@@ -287,8 +287,8 @@ $(function () {
         week.html('Other reviews within a week: ' + data[key_today]['next week']).append(ratios[1]);
         month.html('Other reviews within a month: ' + data[key_today]['next month']).append(ratios[2]);
         long_term.html('Other reviews after a month: ' + data[key_today]['long term']).append(ratios[3]);
-        star.html('Perfect score (3+ month): ' + data[key_today].star).append(ratios[4]);
-        not_learnt.html('To learn: ' + data[key_today]['not learnt']).append(ratios[4]);
+        star.html('Very long term (3+ month): ' + data[key_today].star).append(ratios[4]);
+        not_learnt.html('To learn: ' + data[key_today]['not learnt']).append(ratios[5]);
 
         $("#memrise")
             .append(today)
