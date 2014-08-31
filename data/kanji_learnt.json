@@ -1803,5 +1803,49 @@
             "ふん",
             "ぶん"
         ]
+    },
+    {
+        "added": "2014-08-31",
+        "english": "type of medicine",
+        "kanji": "剤",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "ざい"
+        ]
+    },
+    {
+        "added": "2014-08-31",
+        "english": "punishment",
+        "kanji": "罰",
+        "kunyomi": [
+            "ばつ"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-08-31",
+        "english": "blade",
+        "kanji": "刃",
+        "kunyomi": [
+            "は"
+        ],
+        "onyomi": [
+            "じん"
+        ]
+    },
+    {
+        "added": "2014-08-31",
+        "english": "hide / endure",
+        "kanji": "忍",
+        "kunyomi": [
+            "しの"
+        ],
+        "onyomi": [
+            "にん"
+        ]
     }
 ]
