@@ -1858,5 +1858,38 @@
         "onyomi": [
             "にん"
         ]
+    },
+    {
+        "added": "2014-09-01",
+        "english": "strong",
+        "kanji": "力",
+        "kunyomi": [
+            "ちから"
+        ],
+        "onyomi": [
+            "りょく"
+        ]
+    },
+    {
+        "added": "2014-09-01",
+        "english": "add",
+        "kanji": "加",
+        "kunyomi": [
+            "くわ"
+        ],
+        "onyomi": [
+            "か"
+        ]
+    },
+    {
+        "added": "2014-09-01",
+        "english": "cooperate",
+        "kanji": "協",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "きょう"
+        ]
     }
 ]
