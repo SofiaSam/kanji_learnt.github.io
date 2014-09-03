@@ -1915,5 +1915,50 @@
         "onyomi": [
             "ど"
         ]
+    },
+    {
+        "added": "2014-09-03",
+        "english": "man",
+        "kanji": "男",
+        "kunyomi": [
+            "おとこ"
+        ],
+        "onyomi": [
+            "だん"
+        ]
+    },
+    {
+        "added": "2014-09-03",
+        "english": "the number 9",
+        "kanji": "九",
+        "kunyomi": [
+            "ここの"
+        ],
+        "onyomi": [
+            "きゅう",
+            "く"
+        ]
+    },
+    {
+        "added": "2014-09-03",
+        "english": "research",
+        "kanji": "究",
+        "kunyomi": [
+            "きわ"
+        ],
+        "onyomi": [
+            "きゅう"
+        ]
+    },
+    {
+        "added": "2014-09-03",
+        "english": "round",
+        "kanji": "丸",
+        "kunyomi": [
+            "まる"
+        ],
+        "onyomi": [
+            "がん"
+        ]
     }
 ]
