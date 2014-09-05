@@ -1982,5 +1982,28 @@
         "onyomi": [
             "しゅう"
         ]
+    },
+    {
+        "added": "2014-09-06",
+        "english": "small size",
+        "kanji": "小",
+        "kunyomi": [
+            "ちい",
+            "こ"
+        ],
+        "onyomi": [
+            "しょう"
+        ]
+    },
+    {
+        "added": "2014-09-06",
+        "english": "a little (amount)",
+        "kanji": "少",
+        "kunyomi": [
+            "すく"
+        ],
+        "onyomi": [
+            "しょう"
+        ]
     }
 ]
