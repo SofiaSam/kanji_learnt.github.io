@@ -2005,5 +2005,27 @@
         "onyomi": [
             "しょう"
         ]
+    },
+    {
+        "added": "2014-09-08",
+        "english": "inferiority",
+        "kanji": "劣",
+        "kunyomi": [
+            "おと"
+        ],
+        "onyomi": [
+            "れつ"
+        ]
+    },
+    {
+        "added": "2014-09-08",
+        "english": "odd",
+        "kanji": "妙",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "みょう"
+        ]
     }
 ]
