@@ -1,11 +1,11 @@
 {
-    "2014-08-28": {
-        "not learnt": 6, 
-        "star": 5, 
-        "next month": 688, 
-        "next week": 522, 
-        "long term": 113, 
-        "today": 243
+    "2014-09-05": {
+        "not learnt": 21, 
+        "star": 0, 
+        "next month": 571, 
+        "next week": 887, 
+        "long term": 191, 
+        "today": 199
     }, 
     "2014-08-27": {
         "not learnt": 4, 
@@ -47,13 +47,13 @@
         "long term": 226, 
         "today": 144
     }, 
-    "2014-09-02": {
-        "not learnt": 10, 
-        "star": 3, 
-        "next month": 625, 
-        "next week": 747, 
-        "long term": 158, 
-        "today": 228
+    "2014-08-30": {
+        "not learnt": 0, 
+        "star": 5, 
+        "next month": 674, 
+        "next week": 586, 
+        "long term": 186, 
+        "today": 190
     }, 
     "2014-08-29": {
         "not learnt": 7, 
@@ -63,21 +63,21 @@
         "long term": 168, 
         "today": 209
     }, 
-    "2014-09-05": {
-        "not learnt": 21, 
-        "star": 0, 
-        "next month": 571, 
-        "next week": 887, 
-        "long term": 191, 
-        "today": 199
-    }, 
-    "2014-08-30": {
-        "not learnt": 0, 
+    "2014-08-28": {
+        "not learnt": 6, 
         "star": 5, 
-        "next month": 674, 
-        "next week": 586, 
-        "long term": 186, 
-        "today": 190
+        "next month": 688, 
+        "next week": 522, 
+        "long term": 113, 
+        "today": 243
+    }, 
+    "2014-09-02": {
+        "not learnt": 10, 
+        "star": 3, 
+        "next month": 625, 
+        "next week": 747, 
+        "long term": 158, 
+        "today": 228
     }, 
     "2014-08-31": {
         "not learnt": 0, 
@@ -102,6 +102,14 @@
         "next week": 723, 
         "long term": 261, 
         "today": 268
+    }, 
+    "2014-09-16": {
+        "not learnt": 11, 
+        "star": 0, 
+        "next month": 858, 
+        "next week": 507, 
+        "long term": 390, 
+        "today": 146
     }, 
     "2014-09-08": {
         "not learnt": 8, 
