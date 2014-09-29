@@ -2050,5 +2050,49 @@
         "onyomi": [
             "きょう"
         ]
+    },
+    {
+        "added": "2014-09-29",
+        "english": "cool place",
+        "kanji": "涼",
+        "kunyomi": [
+            "すず"
+        ],
+        "onyomi": [
+            "りょう"
+        ]
+    },
+    {
+        "added": "2014-09-29",
+        "english": "scene",
+        "kanji": "景",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "けい"
+        ]
+    },
+    {
+        "added": "2014-09-29",
+        "english": "show/altar",
+        "kanji": "示",
+        "kunyomi": [
+            "しめ"
+        ],
+        "onyomi": [
+            "し"
+        ]
+    },
+    {
+        "added": "2014-09-29",
+        "english": "religion",
+        "kanji": "宗",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "しゅう"
+        ]
     }
 ]
