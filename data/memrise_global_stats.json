@@ -1,19 +1,27 @@
 {
-    "2014-09-29": {
-        "not learnt": 37, 
-        "star": 19, 
-        "next month": 986, 
-        "next week": 466, 
-        "long term": 309, 
-        "today": 121
+    "2014-09-30": {
+        "not learnt": 21, 
+        "star": 16, 
+        "next month": 988, 
+        "next week": 432, 
+        "long term": 339, 
+        "today": 205
     }, 
-    "2014-08-28": {
-        "not learnt": 6, 
-        "star": 5, 
-        "next month": 688, 
-        "next week": 522, 
-        "long term": 113, 
-        "today": 243
+    "2014-09-03": {
+        "not learnt": 31, 
+        "star": 1, 
+        "next month": 588, 
+        "next week": 815, 
+        "long term": 172, 
+        "today": 195
+    }, 
+    "2014-09-05": {
+        "not learnt": 21, 
+        "star": 0, 
+        "next month": 571, 
+        "next week": 887, 
+        "long term": 191, 
+        "today": 199
     }, 
     "2014-08-27": {
         "not learnt": 4, 
@@ -55,13 +63,13 @@
         "long term": 226, 
         "today": 144
     }, 
-    "2014-09-02": {
-        "not learnt": 10, 
-        "star": 3, 
-        "next month": 625, 
-        "next week": 747, 
-        "long term": 158, 
-        "today": 228
+    "2014-09-29": {
+        "not learnt": 37, 
+        "star": 19, 
+        "next month": 986, 
+        "next week": 466, 
+        "long term": 309, 
+        "today": 121
     }, 
     "2014-08-29": {
         "not learnt": 7, 
@@ -71,13 +79,21 @@
         "long term": 168, 
         "today": 209
     }, 
-    "2014-09-05": {
-        "not learnt": 21, 
-        "star": 0, 
-        "next month": 571, 
-        "next week": 887, 
-        "long term": 191, 
-        "today": 199
+    "2014-08-28": {
+        "not learnt": 6, 
+        "star": 5, 
+        "next month": 688, 
+        "next week": 522, 
+        "long term": 113, 
+        "today": 243
+    }, 
+    "2014-09-02": {
+        "not learnt": 10, 
+        "star": 3, 
+        "next month": 625, 
+        "next week": 747, 
+        "long term": 158, 
+        "today": 228
     }, 
     "2014-08-30": {
         "not learnt": 0, 
@@ -94,14 +110,6 @@
         "next week": 644, 
         "long term": 136, 
         "today": 289
-    }, 
-    "2014-09-01": {
-        "not learnt": 0, 
-        "star": 4, 
-        "next month": 666, 
-        "next week": 660, 
-        "long term": 146, 
-        "today": 286
     }, 
     "2014-09-10": {
         "not learnt": 32, 
@@ -135,13 +143,13 @@
         "long term": 341, 
         "today": 48
     }, 
-    "2014-09-03": {
-        "not learnt": 31, 
-        "star": 1, 
-        "next month": 588, 
-        "next week": 815, 
-        "long term": 172, 
-        "today": 195
+    "2014-09-01": {
+        "not learnt": 0, 
+        "star": 4, 
+        "next month": 666, 
+        "next week": 660, 
+        "long term": 146, 
+        "today": 286
     }, 
     "2014-09-04": {
         "not learnt": 15, 
