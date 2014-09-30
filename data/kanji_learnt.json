@@ -2037,7 +2037,8 @@
             "かえり"
         ],
         "onyomi": [
-            "しょう"
+            "しょう",
+            "せい"
         ]
     },
     {
@@ -2070,7 +2071,8 @@
             ""
         ],
         "onyomi": [
-            "けい"
+            "けい",
+            "け"
         ]
     },
     {
@@ -2104,6 +2106,50 @@
         ],
         "onyomi": [
             "じゃく"
+        ]
+    },
+    {
+        "added": "2014-09-30",
+        "english": "supervisor",
+        "kanji": "督",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "とく"
+        ]
+    },
+    {
+        "added": "2014-09-30",
+        "english": "childhood",
+        "kanji": "幼",
+        "kunyomi": [
+            "おさな"
+        ],
+        "onyomi": [
+            "よう"
+        ]
+    },
+    {
+        "added": "2014-09-30",
+        "english": "deep profound",
+        "kanji": "玄",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "げん"
+        ]
+    },
+    {
+        "added": "2014-09-30",
+        "english": "domestic animals",
+        "kanji": "畜",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "ちく"
         ]
     }
 ]
