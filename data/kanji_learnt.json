@@ -2195,5 +2195,73 @@
         "onyomi": [
             "めん"
         ]
+    },
+    {
+        "added": "2014-10-01",
+        "english": "slender",
+        "kanji": "細",
+        "kunyomi": [
+            "ほそ",
+            "こま"
+        ],
+        "onyomi": [
+            "さい"
+        ]
+    },
+    {
+        "added": "2014-10-01",
+        "english": "general / total",
+        "kanji": "総",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "そう"
+        ]
+    },
+    {
+        "added": "2014-10-01",
+        "english": "look up",
+        "kanji": "索",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "さく"
+        ]
+    },
+    {
+        "added": "2014-10-01",
+        "english": "to supply",
+        "kanji": "納",
+        "kunyomi": [
+            "おさ"
+        ],
+        "onyomi": [
+            "のう",
+            "なつ"
+        ]
+    },
+    {
+        "added": "2014-10-01",
+        "english": "ambiguous",
+        "kanji": "粉",
+        "kunyomi": [
+            "まぎ"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-10-01",
+        "english": "silk",
+        "kanji": "絹",
+        "kunyomi": [
+            "きぬ"
+        ],
+        "onyomi": [
+            ""
+        ]
     }
 ]
