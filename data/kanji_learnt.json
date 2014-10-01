@@ -2151,5 +2151,49 @@
         "onyomi": [
             "ちく"
         ]
+    },
+    {
+        "added": "2014-10-01",
+        "english": "string",
+        "kanji": "糸",
+        "kunyomi": [
+            "いと"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-10-01",
+        "english": "acquaint",
+        "kanji": "紹",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "しょう"
+        ]
+    },
+    {
+        "added": "2014-10-01",
+        "english": "line",
+        "kanji": "線",
+        "kunyomi": [
+            "せん"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-10-01",
+        "english": "cotton",
+        "kanji": "綿",
+        "kunyomi": [
+            "わた"
+        ],
+        "onyomi": [
+            "めん"
+        ]
     }
 ]
