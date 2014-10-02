@@ -15,13 +15,13 @@
         "long term": 158, 
         "today": 228
     }, 
-    "2014-08-31": {
-        "not learnt": 0, 
-        "star": 5, 
-        "next month": 625, 
-        "next week": 644, 
-        "long term": 136, 
-        "today": 289
+    "2014-09-03": {
+        "not learnt": 31, 
+        "star": 1, 
+        "next month": 588, 
+        "next week": 815, 
+        "long term": 172, 
+        "today": 195
     }, 
     "2014-08-27": {
         "not learnt": 4, 
@@ -87,6 +87,14 @@
         "long term": 362, 
         "today": 161
     }, 
+    "2014-10-03": {
+        "not learnt": 39, 
+        "star": 12, 
+        "next month": 866, 
+        "next week": 701, 
+        "long term": 409, 
+        "today": 110
+    }, 
     "2014-09-08": {
         "not learnt": 8, 
         "star": 3, 
@@ -111,13 +119,13 @@
         "long term": 226, 
         "today": 144
     }, 
-    "2014-09-29": {
-        "not learnt": 37, 
-        "star": 19, 
-        "next month": 986, 
-        "next week": 466, 
-        "long term": 309, 
-        "today": 121
+    "2014-09-07": {
+        "not learnt": 8, 
+        "star": 2, 
+        "next month": 577, 
+        "next week": 886, 
+        "long term": 225, 
+        "today": 178
     }, 
     "2014-09-04": {
         "not learnt": 15, 
@@ -143,13 +151,13 @@
         "long term": 186, 
         "today": 190
     }, 
-    "2014-09-03": {
-        "not learnt": 31, 
-        "star": 1, 
-        "next month": 588, 
-        "next week": 815, 
-        "long term": 172, 
-        "today": 195
+    "2014-08-31": {
+        "not learnt": 0, 
+        "star": 5, 
+        "next month": 625, 
+        "next week": 644, 
+        "long term": 136, 
+        "today": 289
     }, 
     "2014-09-01": {
         "not learnt": 0, 
@@ -167,12 +175,12 @@
         "long term": 341, 
         "today": 48
     }, 
-    "2014-09-07": {
-        "not learnt": 8, 
-        "star": 2, 
-        "next month": 577, 
-        "next week": 886, 
-        "long term": 225, 
-        "today": 178
+    "2014-09-29": {
+        "not learnt": 37, 
+        "star": 19, 
+        "next month": 986, 
+        "next week": 466, 
+        "long term": 309, 
+        "today": 121
     }
 }
