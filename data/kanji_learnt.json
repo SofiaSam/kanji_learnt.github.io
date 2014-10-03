@@ -2263,5 +2263,49 @@
         "onyomi": [
             ""
         ]
+    },
+    {
+        "added": "2014-10-03",
+        "english": "group, tribe",
+        "kanji": "系",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "けい"
+        ]
+    },
+    {
+        "added": "2014-10-03",
+        "english": "grandchild",
+        "kanji": "孫",
+        "kunyomi": [
+            "まご"
+        ],
+        "onyomi": [
+            "そん"
+        ]
+    },
+    {
+        "added": "2014-10-03",
+        "english": "be involved with",
+        "kanji": "係",
+        "kunyomi": [
+            "かか"
+        ],
+        "onyomi": [
+            "けい"
+        ]
+    },
+    {
+        "added": "2014-10-03",
+        "english": "dry out",
+        "kanji": "干",
+        "kunyomi": [
+            "ほ"
+        ],
+        "onyomi": [
+            "かん"
+        ]
     }
 ]
