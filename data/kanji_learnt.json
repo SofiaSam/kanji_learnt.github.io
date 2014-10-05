@@ -2351,5 +2351,27 @@
         "onyomi": [
             ""
         ]
+    },
+    {
+        "added": "2014-10-05",
+        "english": "sweat",
+        "kanji": "汗",
+        "kunyomi": [
+            "あせ"
+        ],
+        "onyomi": [
+            "かん"
+        ]
+    },
+    {
+        "added": "2014-10-05",
+        "english": "cosmos",
+        "kanji": "宇",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "う"
+        ]
     }
 ]
