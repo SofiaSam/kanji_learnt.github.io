@@ -2417,5 +2417,27 @@
         "onyomi": [
             "かつ"
         ]
+    },
+    {
+        "added": "2014-10-06",
+        "english": "quit",
+        "kanji": "辞",
+        "kunyomi": [
+            "や"
+        ],
+        "onyomi": [
+            "じ"
+        ]
+    },
+    {
+        "added": "2014-10-06",
+        "english": "break at work",
+        "kanji": "憩",
+        "kunyomi": [
+            "いこい"
+        ],
+        "onyomi": [
+            "けい"
+        ]
     }
 ]
