@@ -2373,5 +2373,49 @@
         "onyomi": [
             "う"
         ]
+    },
+    {
+        "added": "2014-10-06",
+        "english": "thousand",
+        "kanji": "千",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "せん"
+        ]
+    },
+    {
+        "added": "2014-10-06",
+        "english": "tongue",
+        "kanji": "舌",
+        "kunyomi": [
+            "した"
+        ],
+        "onyomi": [
+            "ぜつ"
+        ]
+    },
+    {
+        "added": "2014-10-06",
+        "english": "conversation",
+        "kanji": "話",
+        "kunyomi": [
+            "はな"
+        ],
+        "onyomi": [
+            "わ"
+        ]
+    },
+    {
+        "added": "2014-10-06",
+        "english": "vivid, lively",
+        "kanji": "活",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "かつ"
+        ]
     }
 ]
