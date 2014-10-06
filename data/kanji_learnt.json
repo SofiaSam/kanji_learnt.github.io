@@ -2439,5 +2439,38 @@
         "onyomi": [
             "けい"
         ]
+    },
+    {
+        "added": "2014-10-06",
+        "english": "half",
+        "kanji": "半",
+        "kunyomi": [
+            "なか"
+        ],
+        "onyomi": [
+            "はん"
+        ]
+    },
+    {
+        "added": "2014-10-06",
+        "english": "judgement",
+        "kanji": "判",
+        "kunyomi": [
+            "わか"
+        ],
+        "onyomi": [
+            "はん"
+        ]
+    },
+    {
+        "added": "2014-10-06",
+        "english": "accompany",
+        "kanji": "伴",
+        "kunyomi": [
+            "ともな"
+        ],
+        "onyomi": [
+            "はん"
+        ]
     }
 ]
