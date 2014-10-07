@@ -2472,5 +2472,38 @@
         "onyomi": [
             "はん"
         ]
+    },
+    {
+        "added": "2014-10-07",
+        "english": "equal/level",
+        "kanji": "平",
+        "kunyomi": [
+            "たい"
+        ],
+        "onyomi": [
+            "へい"
+        ]
+    },
+    {
+        "added": "2014-10-07",
+        "english": "art or literary criticism",
+        "kanji": "評",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "ひょう"
+        ]
+    },
+    {
+        "added": "2014-10-07",
+        "english": "call to someone",
+        "kanji": "呼",
+        "kunyomi": [
+            "よ"
+        ],
+        "onyomi": [
+            "こ"
+        ]
     }
 ]
