@@ -2538,5 +2538,104 @@
         "onyomi": [
             "りょう"
         ]
+    },
+    {
+        "added": "2014-10-08",
+        "english": "black",
+        "kanji": "黒",
+        "kunyomi": [
+            "くろ"
+        ],
+        "onyomi": [
+            "こく"
+        ]
+    },
+    {
+        "added": "2014-10-08",
+        "english": "kid",
+        "kanji": "童",
+        "kunyomi": [
+            "わらべ"
+        ],
+        "onyomi": [
+            "どう"
+        ]
+    },
+    {
+        "added": "2014-10-08",
+        "english": "yearn for",
+        "kanji": "憧",
+        "kunyomi": [
+            "あこが"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-10-08",
+        "english": "bury",
+        "kanji": "埋",
+        "kunyomi": [
+            "う"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-10-08",
+        "english": "boy / monk",
+        "kanji": "坊",
+        "kunyomi": [
+            "ぼう"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-10-08",
+        "english": "puke",
+        "kanji": "吐",
+        "kunyomi": [
+            "は"
+        ],
+        "onyomi": [
+            "と"
+        ]
+    },
+    {
+        "added": "2014-10-08",
+        "english": "cram school",
+        "kanji": "塾",
+        "kunyomi": [
+            "じゅく"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-10-08",
+        "english": "samurai",
+        "kanji": "士",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "し"
+        ]
+    },
+    {
+        "added": "2014-10-08",
+        "english": "work",
+        "kanji": "仕",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "し"
+        ]
     }
 ]
