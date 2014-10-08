@@ -2505,5 +2505,38 @@
         "onyomi": [
             "こ"
         ]
+    },
+    {
+        "added": "2014-10-08",
+        "english": "earth",
+        "kanji": "土",
+        "kunyomi": [
+            "つち"
+        ],
+        "onyomi": [
+            "ど"
+        ]
+    },
+    {
+        "added": "2014-10-08",
+        "english": "village",
+        "kanji": "里",
+        "kunyomi": [
+            "さと"
+        ],
+        "onyomi": [
+            "り"
+        ]
+    },
+    {
+        "added": "2014-10-08",
+        "english": "quantity",
+        "kanji": "量",
+        "kunyomi": [
+            "はか"
+        ],
+        "onyomi": [
+            "りょう"
+        ]
     }
 ]
