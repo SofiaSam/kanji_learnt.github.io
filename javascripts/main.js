@@ -260,7 +260,8 @@ $(function () {
             data[last_key]['next month'] - data[secondlast_key]['next month'],
             data[last_key]['long term'] - data[secondlast_key]['long term'],
             data[last_key].star - data[secondlast_key].star,
-            data[last_key]['not learnt'] - data[secondlast_key]['not learnt']
+            data[last_key]['not learnt'] - data[secondlast_key]['not learnt'],
+            data[last_key]['nb questions'] - data[secondlast_key]['nb questions']
         ];
 
         for (i = 0; i < ratios.length; i += 1) {
@@ -273,6 +274,7 @@ $(function () {
         // Actually we're happy with more words in long term
         ratios[3].toggleClass('red green');
         ratios[4].toggleClass('red green');
+        ratios[6].toggleClass('red green');
         today.html('Reviews to do within a day: <strong>' + data[last_key].today + '</strong>').append(ratios[0]);
         week.html('Other reviews within a week: ' + data[last_key]['next week']).append(ratios[1]);
         month.html('Other reviews within a month: ' + data[last_key]['next month']).append(ratios[2]);
@@ -280,6 +282,9 @@ $(function () {
         star.html('Very long term (3+ month): ' + data[last_key].star).append(ratios[4]);
         not_learnt.html('To learn: ' + data[last_key]['not learnt']).append(ratios[5]);
 
+        $("#nb_questions")
+            .append(data[last_key]['nb questions'])
+            .append(ratios[6]);
         $("#memrise")
             .append(today)
             .append(week)

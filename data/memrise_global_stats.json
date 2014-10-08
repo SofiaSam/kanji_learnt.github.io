@@ -197,7 +197,8 @@
         "next month": 1035, 
         "next week": 455, 
         "long term": 341, 
-        "today": 48
+        "today": 48,
+        "nb questions": 2398
     }, 
     "2014-09-29": {
         "not learnt": 37, 
@@ -205,6 +206,7 @@
         "next month": 986, 
         "next week": 466, 
         "long term": 309, 
-        "today": 121
+        "today": 121,
+        "nb questions": 2440
     }
 }
