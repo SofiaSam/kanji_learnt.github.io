@@ -255,6 +255,8 @@ $(function () {
             star = $(document.createElement('li')).addClass('blue'),
             not_learnt = $(document.createElement('li'));
 
+        console.log("last key: " + last_key);
+        console.log("second last key: " + secondlast_key);
         ratios = [
             data[last_key].today - data[secondlast_key].today,
             data[last_key]['next week'] - data[secondlast_key]['next week'],
