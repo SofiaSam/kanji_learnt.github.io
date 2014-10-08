@@ -109,6 +109,7 @@
         "next month": 946, 
         "next week": 530, 
         "long term": 499, 
+        "nb questions": 2398, 
         "today": 317
     }, 
     "2014-10-08": {
@@ -117,6 +118,7 @@
         "next month": 977, 
         "next week": 567, 
         "long term": 577, 
+        "nb questions": 2440, 
         "today": 197
     }, 
     "2014-10-09": {
@@ -206,7 +208,6 @@
         "next month": 1035, 
         "next week": 455, 
         "long term": 341, 
-        "nb questions": 2398, 
         "today": 48
     }, 
     "2014-09-29": {
@@ -215,7 +216,6 @@
         "next month": 986, 
         "next week": 466, 
         "long term": 309, 
-        "nb questions": 2440, 
         "today": 121
     }
 }
