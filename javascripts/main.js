@@ -245,11 +245,8 @@ $(function () {
             plus_marker,
             ratio_span,
             ratios,
-            key_yesterday,
-            key_today = new Date(),
-            y = key_today.getFullYear(),
-            m = key_today.getMonth() + 1,
-            d = key_today.getDate(),
+            last_key = Object.keys(data)[Object.keys(data).length - 1],
+            secondlast_key = Object.keys(data)[Object.keys(data).length - 2],
             today = $(document.createElement('li')),
             week = $(document.createElement('li')),
             month = $(document.createElement('li')),
@@ -257,19 +254,14 @@ $(function () {
             star = $(document.createElement('li')).addClass('blue'),
             not_learnt = $(document.createElement('li'));
 
-        m = (m < 10) ? "0" + m : m;
-        d = (d < 10) ? "0" + d : d;
-        key_today = y + "-" + m + "-" + d;
-        key_yesterday = new Date().toISOString().substring(0, 10);
         ratios = [
-            data[key_today].today - data[key_yesterday].today,
-            data[key_today]['next week'] - data[key_yesterday]['next week'],
-            data[key_today]['next month'] - data[key_yesterday]['next month'],
-            data[key_today]['long term'] - data[key_yesterday]['long term'],
-            data[key_today].star - data[key_yesterday].star,
-            data[key_today]['not learnt'] - data[key_yesterday]['not learnt']
+            data[last_key].today - data[secondlast_key].today,
+            data[last_key]['next week'] - data[secondlast_key]['next week'],
+            data[last_key]['next month'] - data[secondlast_key]['next month'],
+            data[last_key]['long term'] - data[secondlast_key]['long term'],
+            data[last_key].star - data[secondlast_key].star,
+            data[last_key]['not learnt'] - data[secondlast_key]['not learnt']
         ];
-
 
         for (i = 0; i < ratios.length; i += 1) {
             plus_marker = (ratios[i] > 0) ? '+' : '';
@@ -281,12 +273,12 @@ $(function () {
         // Actually we're happy with more words in long term
         ratios[3].toggleClass('red green');
         ratios[4].toggleClass('red green');
-        today.html('Reviews to do within a day: <strong>' + data[key_today].today + '</strong>').append(ratios[0]);
-        week.html('Other reviews within a week: ' + data[key_today]['next week']).append(ratios[1]);
-        month.html('Other reviews within a month: ' + data[key_today]['next month']).append(ratios[2]);
-        long_term.html('Other reviews after a month: ' + data[key_today]['long term']).append(ratios[3]);
-        star.html('Very long term (3+ month): ' + data[key_today].star).append(ratios[4]);
-        not_learnt.html('To learn: ' + data[key_today]['not learnt']).append(ratios[5]);
+        today.html('Reviews to do within a day: <strong>' + data[last_key].today + '</strong>').append(ratios[0]);
+        week.html('Other reviews within a week: ' + data[last_key]['next week']).append(ratios[1]);
+        month.html('Other reviews within a month: ' + data[last_key]['next month']).append(ratios[2]);
+        long_term.html('Other reviews after a month: ' + data[last_key]['long term']).append(ratios[3]);
+        star.html('Very long term (3+ month): ' + data[last_key].star).append(ratios[4]);
+        not_learnt.html('To learn: ' + data[last_key]['not learnt']).append(ratios[5]);
 
         $("#memrise")
             .append(today)
