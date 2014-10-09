@@ -2659,5 +2659,27 @@
         "onyomi": [
             "きつ"
         ]
+    },
+    {
+        "added": "2014-10-09",
+        "english": "cram in",
+        "kanji": "詰",
+        "kunyomi": [
+            "つ"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-10-09",
+        "english": "bind",
+        "kanji": "結",
+        "kunyomi": [
+            "むす"
+        ],
+        "onyomi": [
+            "けつ"
+        ]
     }
 ]
