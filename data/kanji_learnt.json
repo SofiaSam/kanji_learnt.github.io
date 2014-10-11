@@ -2692,5 +2692,61 @@
         "onyomi": [
             "し"
         ]
+    },
+    {
+        "added": "2014-10-12",
+        "english": "get old",
+        "kanji": "老",
+        "kunyomi": [
+            "ふ",
+            "お"
+        ],
+        "onyomi": [
+            "ろう"
+        ]
+    },
+    {
+        "added": "2014-10-12",
+        "english": "filial piety",
+        "kanji": "孝",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "こう"
+        ]
+    },
+    {
+        "added": "2014-10-12",
+        "english": "professional",
+        "kanji": "者",
+        "kunyomi": [
+            "もの"
+        ],
+        "onyomi": [
+            "しゃ"
+        ]
+    },
+    {
+        "added": "2014-10-12",
+        "english": "author",
+        "kanji": "著",
+        "kunyomi": [
+            "いちじる"
+        ],
+        "onyomi": [
+            "ちょ"
+        ]
+    },
+    {
+        "added": "2014-10-12",
+        "english": "together",
+        "kanji": "緖",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "しょ"
+        ]
     }
 ]
