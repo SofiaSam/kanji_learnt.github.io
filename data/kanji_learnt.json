@@ -2859,5 +2859,38 @@
         "onyomi": [
             "じゅん"
         ]
+    },
+    {
+        "added": "2014-10-14",
+        "english": "defend",
+        "kanji": "護",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "ご"
+        ]
+    },
+    {
+        "added": "2014-10-14",
+        "english": "horse",
+        "kanji": "馬",
+        "kunyomi": [
+            "うま"
+        ],
+        "onyomi": [
+            "ば"
+        ]
+    },
+    {
+        "added": "2014-10-14",
+        "english": "stop",
+        "kanji": "止",
+        "kunyomi": [
+            "と"
+        ],
+        "onyomi": [
+            "し"
+        ]
     }
 ]
