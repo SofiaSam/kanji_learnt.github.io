@@ -2741,7 +2741,7 @@
     {
         "added": "2014-10-12",
         "english": "together",
-        "kanji": "緖",
+        "kanji": "緒",
         "kunyomi": [
             ""
         ],
@@ -2803,6 +2803,61 @@
         ],
         "onyomi": [
             "しょう"
+        ]
+    },
+    {
+        "added": "2014-10-13",
+        "english": "without",
+        "kanji": "無",
+        "kunyomi": [
+            "な"
+        ],
+        "onyomi": [
+            "む"
+        ]
+    },
+    {
+        "added": "2014-10-13",
+        "english": "upkeep",
+        "kanji": "維",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "い"
+        ]
+    },
+    {
+        "added": "2014-10-13",
+        "english": "sole or only",
+        "kanji": "唯",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "ゆい"
+        ]
+    },
+    {
+        "added": "2014-10-13",
+        "english": "who?",
+        "kanji": "誰",
+        "kunyomi": [
+            "だれ"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-10-13",
+        "english": "prepare / criteria",
+        "kanji": "準",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "じゅん"
         ]
     }
 ]
