@@ -2892,5 +2892,38 @@
         "onyomi": [
             "し"
         ]
+    },
+    {
+        "added": "2014-10-14",
+        "english": "feminine, female",
+        "kanji": "雌",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "めす"
+        ]
+    },
+    {
+        "added": "2014-10-14",
+        "english": "consent",
+        "kanji": "肯",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "こう"
+        ]
+    },
+    {
+        "added": "2014-10-14",
+        "english": "walk",
+        "kanji": "歩",
+        "kunyomi": [
+            "ある"
+        ],
+        "onyomi": [
+            "ほ"
+        ]
     }
 ]
