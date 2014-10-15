@@ -2936,5 +2936,39 @@
         "onyomi": [
             "しょう"
         ]
+    },
+    {
+        "added": "2014-10-15",
+        "english": "purple",
+        "kanji": "紫",
+        "kunyomi": [
+            "むらさき"
+        ],
+        "onyomi": [
+            "し"
+        ]
+    },
+    {
+        "added": "2014-10-15",
+        "english": "foot / be enough",
+        "kanji": "足",
+        "kunyomi": [
+            "た",
+            "あし"
+        ],
+        "onyomi": [
+            "そく"
+        ]
+    },
+    {
+        "added": "2014-10-15",
+        "english": "peer pressure",
+        "kanji": "促",
+        "kunyomi": [
+            "うなが"
+        ],
+        "onyomi": [
+            "そく"
+        ]
     }
 ]
