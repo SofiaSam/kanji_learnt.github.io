@@ -2970,5 +2970,39 @@
         "onyomi": [
             "そく"
         ]
+    },
+    {
+        "added": "2014-10-16",
+        "english": "tread on",
+        "kanji": "踏",
+        "kunyomi": [
+            "ふ"
+        ],
+        "onyomi": [
+            "とう"
+        ]
+    },
+    {
+        "added": "2014-10-16",
+        "english": "correct",
+        "kanji": "正",
+        "kunyomi": [
+            "ただ"
+        ],
+        "onyomi": [
+            "せい",
+            "しょう"
+        ]
+    },
+    {
+        "added": "2014-10-16",
+        "english": "for sure",
+        "kanji": "是",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "ぜ"
+        ]
     }
 ]
