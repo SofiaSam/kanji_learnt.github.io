@@ -3004,5 +3004,27 @@
         "onyomi": [
             "ぜ"
         ]
+    },
+    {
+        "added": "2014-10-17",
+        "english": "plan",
+        "kanji": "定",
+        "kunyomi": [
+            "さだ"
+        ],
+        "onyomi": [
+            "てい"
+        ]
+    },
+    {
+        "added": "2014-10-17",
+        "english": "proof",
+        "kanji": "証",
+        "kunyomi": [
+            "あかし"
+        ],
+        "onyomi": [
+            "しょう"
+        ]
     }
 ]
