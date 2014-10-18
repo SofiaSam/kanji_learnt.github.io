@@ -3026,5 +3026,82 @@
         "onyomi": [
             "しょう"
         ]
+    },
+    {
+        "added": "2014-10-18",
+        "english": "distort",
+        "kanji": "歪",
+        "kunyomi": [
+            "ゆが"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-10-18",
+        "english": "run",
+        "kanji": "走",
+        "kunyomi": [
+            "はし"
+        ],
+        "onyomi": [
+            "そう"
+        ]
+    },
+    {
+        "added": "2014-10-18",
+        "english": "exceed / go over",
+        "kanji": "超",
+        "kunyomi": [
+            "こ"
+        ],
+        "onyomi": [
+            "ちょう"
+        ]
+    },
+    {
+        "added": "2014-10-18",
+        "english": "train station",
+        "kanji": "駅",
+        "kunyomi": [
+            "えき"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-10-18",
+        "english": "noon",
+        "kanji": "昼",
+        "kunyomi": [
+            "ひる"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-10-18",
+        "english": "reason / translation",
+        "kanji": "訳",
+        "kunyomi": [
+            "わけ"
+        ],
+        "onyomi": [
+            "やく"
+        ]
+    },
+    {
+        "added": "2014-10-18",
+        "english": "swamp / bling",
+        "kanji": "沢",
+        "kunyomi": [
+            "さわ"
+        ],
+        "onyomi": [
+            "たく"
+        ]
     }
 ]
