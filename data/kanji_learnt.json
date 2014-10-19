@@ -3103,5 +3103,38 @@
         "onyomi": [
             "たく"
         ]
+    },
+    {
+        "added": "2014-10-19",
+        "english": "hand",
+        "kanji": "手",
+        "kunyomi": [
+            "て"
+        ],
+        "onyomi": [
+            "ず"
+        ]
+    },
+    {
+        "added": "2014-10-19",
+        "english": "select",
+        "kanji": "択",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "たく"
+        ]
+    },
+    {
+        "added": "2014-10-19",
+        "english": "infer",
+        "kanji": "推",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "すい"
+        ]
     }
 ]
