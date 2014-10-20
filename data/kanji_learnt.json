@@ -3203,5 +3203,50 @@
         "onyomi": [
             ""
         ]
+    },
+    {
+        "added": "2014-10-21",
+        "english": "beckon",
+        "kanji": "招",
+        "kunyomi": [
+            "まね"
+        ],
+        "onyomi": [
+            "しょう"
+        ]
+    },
+    {
+        "added": "2014-10-21",
+        "english": "kidnap",
+        "kanji": "拐",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "かい"
+        ]
+    },
+    {
+        "added": "2014-10-21",
+        "english": "carry on your back",
+        "kanji": "担",
+        "kunyomi": [
+            "にな",
+            "かつ"
+        ],
+        "onyomi": [
+            "たん"
+        ]
+    },
+    {
+        "added": "2014-10-21",
+        "english": "direct contact",
+        "kanji": "接",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "せつ"
+        ]
     }
 ]
