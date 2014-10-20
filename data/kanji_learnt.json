@@ -3169,5 +3169,39 @@
         "onyomi": [
             ""
         ]
+    },
+    {
+        "added": "2014-10-20",
+        "english": "criticism; strike",
+        "kanji": "批",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "ひ"
+        ]
+    },
+    {
+        "added": "2014-10-20",
+        "english": "finger / point at",
+        "kanji": "指",
+        "kunyomi": [
+            "ゆび",
+            "さ"
+        ],
+        "onyomi": [
+            "し"
+        ]
+    },
+    {
+        "added": "2014-10-20",
+        "english": "pound",
+        "kanji": "打",
+        "kunyomi": [
+            "う"
+        ],
+        "onyomi": [
+            ""
+        ]
     }
 ]
