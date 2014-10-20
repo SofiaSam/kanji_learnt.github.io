@@ -3136,5 +3136,38 @@
         "onyomi": [
             "すい"
         ]
+    },
+    {
+        "added": "2014-10-20",
+        "english": "depict",
+        "kanji": "描",
+        "kunyomi": [
+            "か"
+        ],
+        "onyomi": [
+            "びょう"
+        ]
+    },
+    {
+        "added": "2014-10-20",
+        "english": "submit a proposal",
+        "kanji": "提",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "てい"
+        ]
+    },
+    {
+        "added": "2014-10-20",
+        "english": "pay",
+        "kanji": "払",
+        "kunyomi": [
+            "はら"
+        ],
+        "onyomi": [
+            ""
+        ]
     }
 ]
