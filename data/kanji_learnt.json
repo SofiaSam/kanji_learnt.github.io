@@ -3248,5 +3248,61 @@
         "onyomi": [
             "せつ"
         ]
+    },
+    {
+        "added": "2014-10-23",
+        "english": "clap",
+        "kanji": "拍",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "はく",
+            "ひょう"
+        ]
+    },
+    {
+        "added": "2014-10-23",
+        "english": "insert",
+        "kanji": "挿",
+        "kunyomi": [
+            "さ"
+        ],
+        "onyomi": [
+            "そう"
+        ]
+    },
+    {
+        "added": "2014-10-23",
+        "english": "observe / guard",
+        "kanji": "看",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "かん"
+        ]
+    },
+    {
+        "added": "2014-10-23",
+        "english": "ear",
+        "kanji": "耳",
+        "kunyomi": [
+            "みみ"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-10-23",
+        "english": "take",
+        "kanji": "取",
+        "kunyomi": [
+            "と"
+        ],
+        "onyomi": [
+            ""
+        ]
     }
 ]
