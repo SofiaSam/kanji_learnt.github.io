@@ -3304,5 +3304,61 @@
         "onyomi": [
             ""
         ]
+    },
+    {
+        "added": "2014-11-01",
+        "english": "most",
+        "kanji": "最",
+        "kunyomi": [
+            "もっと"
+        ],
+        "onyomi": [
+            "さい"
+        ]
+    },
+    {
+        "added": "2014-11-01",
+        "english": "photo-shoot",
+        "kanji": "撮",
+        "kunyomi": [
+            "と"
+        ],
+        "onyomi": [
+            "さつ"
+        ]
+    },
+    {
+        "added": "2014-11-01",
+        "english": "hobby",
+        "kanji": "趣",
+        "kunyomi": [
+            "おみむき"
+        ],
+        "onyomi": [
+            "しゅ"
+        ]
+    },
+    {
+        "added": "2014-11-01",
+        "english": "disgrace",
+        "kanji": "恥",
+        "kunyomi": [
+            "は",
+            "はじ"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-11-01",
+        "english": "listen",
+        "kanji": "聞",
+        "kunyomi": [
+            "き"
+        ],
+        "onyomi": [
+            "ぶん"
+        ]
     }
 ]
