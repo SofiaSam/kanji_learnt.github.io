@@ -7,30 +7,21 @@
         "long term": 390, 
         "today": 146
     }, 
-    "2014-08-30": {
-        "not learnt": 0, 
-        "star": 5, 
-        "next month": 674, 
-        "next week": 586, 
-        "long term": 186, 
-        "today": 190
-    }, 
-    "2014-08-31": {
-        "not learnt": 0, 
-        "star": 5, 
+    "2014-09-02": {
+        "not learnt": 10, 
+        "star": 3, 
         "next month": 625, 
-        "next week": 644, 
-        "long term": 136, 
-        "today": 289
+        "next week": 747, 
+        "long term": 158, 
+        "today": 228
     }, 
-    "2014-10-10": {
-        "not learnt": 71, 
-        "star": 10, 
-        "next month": 983, 
-        "next week": 515, 
-        "long term": 679, 
-        "nb questions": 2558, 
-        "today": 300
+    "2014-09-03": {
+        "not learnt": 31, 
+        "star": 1, 
+        "next month": 588, 
+        "next week": 815, 
+        "long term": 172, 
+        "today": 195
     }, 
     "2014-08-27": {
         "not learnt": 4, 
@@ -193,6 +184,14 @@
         "nb questions": 2378, 
         "today": 317
     }, 
+    "2014-09-07": {
+        "not learnt": 8, 
+        "star": 2, 
+        "next month": 577, 
+        "next week": 886, 
+        "long term": 225, 
+        "today": 178
+    }, 
     "2014-10-27": {
         "not learnt": 33, 
         "star": 28, 
@@ -250,21 +249,21 @@
         "long term": 191, 
         "today": 199
     }, 
-    "2014-09-02": {
-        "not learnt": 10, 
-        "star": 3, 
-        "next month": 625, 
-        "next week": 747, 
-        "long term": 158, 
-        "today": 228
+    "2014-08-30": {
+        "not learnt": 0, 
+        "star": 5, 
+        "next month": 674, 
+        "next week": 586, 
+        "long term": 186, 
+        "today": 190
     }, 
-    "2014-09-03": {
-        "not learnt": 31, 
-        "star": 1, 
-        "next month": 588, 
-        "next week": 815, 
-        "long term": 172, 
-        "today": 195
+    "2014-08-31": {
+        "not learnt": 0, 
+        "star": 5, 
+        "next month": 625, 
+        "next week": 644, 
+        "long term": 136, 
+        "today": 289
     }, 
     "2014-09-01": {
         "not learnt": 0, 
@@ -336,13 +335,23 @@
         "nb questions": 2558, 
         "today": 264
     }, 
-    "2014-09-07": {
-        "not learnt": 8, 
-        "star": 2, 
-        "next month": 577, 
-        "next week": 886, 
-        "long term": 225, 
-        "today": 178
+    "2014-10-10": {
+        "not learnt": 71, 
+        "star": 10, 
+        "next month": 983, 
+        "next week": 515, 
+        "long term": 679, 
+        "nb questions": 2558, 
+        "today": 300
+    }, 
+    "2014-11-03": {
+        "not learnt": 34, 
+        "star": 246, 
+        "next month": 1658, 
+        "next week": 460, 
+        "long term": 520, 
+        "nb questions": 3158, 
+        "today": 240
     }, 
     "2014-11-02": {
         "not learnt": 34, 
