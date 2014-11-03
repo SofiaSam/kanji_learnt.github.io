@@ -3360,5 +3360,60 @@
         "onyomi": [
             "ぶん"
         ]
+    },
+    {
+        "added": "2014-11-03",
+        "english": "fold",
+        "kanji": "折",
+        "kunyomi": [
+            "お"
+        ],
+        "onyomi": [
+            "せつ"
+        ]
+    },
+    {
+        "added": "2014-11-03",
+        "english": "hill",
+        "kanji": "丘",
+        "kunyomi": [
+            "おか"
+        ],
+        "onyomi": [
+            "きゅう"
+        ]
+    },
+    {
+        "added": "2014-11-03",
+        "english": "vow",
+        "kanji": "誓",
+        "kunyomi": [
+            "ちか"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-11-03",
+        "english": "accuse",
+        "kanji": "訴",
+        "kunyomi": [
+            "うった"
+        ],
+        "onyomi": [
+            "そ"
+        ]
+    },
+    {
+        "added": "2014-11-03",
+        "english": "bamboo",
+        "kanji": "竹",
+        "kunyomi": [
+            "たけ"
+        ],
+        "onyomi": [
+            ""
+        ]
     }
 ]
