@@ -3415,5 +3415,49 @@
         "onyomi": [
             ""
         ]
+    },
+    {
+        "added": "2014-11-04",
+        "english": "muscle",
+        "kanji": "筋",
+        "kunyomi": [
+            "すじ"
+        ],
+        "onyomi": [
+            "きん"
+        ]
+    },
+    {
+        "added": "2014-11-04",
+        "english": "simplicity",
+        "kanji": "簡",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "かん"
+        ]
+    },
+    {
+        "added": "2014-11-04",
+        "english": "make",
+        "kanji": "作",
+        "kunyomi": [
+            "つく"
+        ],
+        "onyomi": [
+            "さく"
+        ]
+    },
+    {
+        "added": "2014-11-04",
+        "english": "last night",
+        "kanji": "昨",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "さく"
+        ]
     }
 ]
