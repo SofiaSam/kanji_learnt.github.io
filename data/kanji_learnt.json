@@ -3470,5 +3470,62 @@
         "onyomi": [
             "きん"
         ]
+    },
+    {
+        "added": "2014-11-05",
+        "english": "around here/around that time",
+        "kanji": "辺",
+        "kunyomi": [
+            "あたり"
+        ],
+        "onyomi": [
+            "へん",
+            "べ"
+        ]
+    },
+    {
+        "added": "2014-11-05",
+        "english": "press upon",
+        "kanji": "迫",
+        "kunyomi": [
+            "せま"
+        ],
+        "onyomi": [
+            "はく"
+        ]
+    },
+    {
+        "added": "2014-11-05",
+        "english": "get crowded",
+        "kanji": "込",
+        "kunyomi": [
+            "こ"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-11-05",
+        "english": "plural / delivery",
+        "kanji": "達",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "たつ",
+            "たち"
+        ]
+    },
+    {
+        "added": "2014-11-05",
+        "english": "progress",
+        "kanji": "進",
+        "kunyomi": [
+            "すす"
+        ],
+        "onyomi": [
+            "しん"
+        ]
     }
 ]
