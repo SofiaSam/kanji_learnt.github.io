@@ -3527,5 +3527,71 @@
         "onyomi": [
             "しん"
         ]
+    },
+    {
+        "added": "2014-11-06",
+        "english": "refer to",
+        "kanji": "述",
+        "kunyomi": [
+            "の"
+        ],
+        "onyomi": [
+            "じゅつ"
+        ]
+    },
+    {
+        "added": "2014-11-06",
+        "english": "tree",
+        "kanji": "木",
+        "kunyomi": [
+            "き"
+        ],
+        "onyomi": [
+            "もく"
+        ]
+    },
+    {
+        "added": "2014-11-06",
+        "english": "grove",
+        "kanji": "林",
+        "kunyomi": [
+            "はやし"
+        ],
+        "onyomi": [
+            "りん"
+        ]
+    },
+    {
+        "added": "2014-11-06",
+        "english": "forest",
+        "kanji": "森",
+        "kunyomi": [
+            "もり"
+        ],
+        "onyomi": [
+            "しん"
+        ]
+    },
+    {
+        "added": "2014-11-06",
+        "english": "book / the real",
+        "kanji": "本",
+        "kunyomi": [
+            "ほん"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-11-06",
+        "english": "body",
+        "kanji": "体",
+        "kunyomi": [
+            "からだ"
+        ],
+        "onyomi": [
+            "たい"
+        ]
     }
 ]
