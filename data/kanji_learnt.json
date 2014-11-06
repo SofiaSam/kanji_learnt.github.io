@@ -3593,5 +3593,38 @@
         "onyomi": [
             "たい"
         ]
+    },
+    {
+        "added": "2014-11-07",
+        "english": "rest",
+        "kanji": "休",
+        "kunyomi": [
+            "やす"
+        ],
+        "onyomi": [
+            "きゅう"
+        ]
+    },
+    {
+        "added": "2014-11-07",
+        "english": "frame / limit",
+        "kanji": "枠",
+        "kunyomi": [
+            "わく"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-11-07",
+        "english": "analyze",
+        "kanji": "析",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "せき"
+        ]
     }
 ]
