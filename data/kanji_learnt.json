@@ -3659,5 +3659,49 @@
         "onyomi": [
             "しん"
         ]
+    },
+    {
+        "added": "2014-11-11",
+        "english": "collect",
+        "kanji": "集",
+        "kunyomi": [
+            "あつ"
+        ],
+        "onyomi": [
+            "しゅう"
+        ]
+    },
+    {
+        "added": "2014-11-11",
+        "english": "shelf",
+        "kanji": "棚",
+        "kunyomi": [
+            "たな"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-11-11",
+        "english": "pine",
+        "kanji": "松",
+        "kunyomi": [
+            "まつ"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-11-11",
+        "english": "wither",
+        "kanji": "枯",
+        "kunyomi": [
+            "か"
+        ],
+        "onyomi": [
+            ""
+        ]
     }
 ]
