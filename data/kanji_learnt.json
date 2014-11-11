@@ -3626,5 +3626,38 @@
         "onyomi": [
             "せき"
         ]
+    },
+    {
+        "added": "2014-11-11",
+        "english": "take measures",
+        "kanji": "策",
+        "kunyomi": [
+            "さく"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-11-11",
+        "english": "stab / business card",
+        "kanji": "刺",
+        "kunyomi": [
+            "さ"
+        ],
+        "onyomi": [
+            "し"
+        ]
+    },
+    {
+        "added": "2014-11-11",
+        "english": "new",
+        "kanji": "新",
+        "kunyomi": [
+            "あたら"
+        ],
+        "onyomi": [
+            "しん"
+        ]
     }
 ]
