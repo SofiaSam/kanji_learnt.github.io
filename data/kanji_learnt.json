@@ -3703,5 +3703,61 @@
         "onyomi": [
             ""
         ]
+    },
+    {
+        "added": "2014-11-13",
+        "english": "partner",
+        "kanji": "相",
+        "kunyomi": [
+            "あい"
+        ],
+        "onyomi": [
+            "そう"
+        ]
+    },
+    {
+        "added": "2014-11-13",
+        "english": "box",
+        "kanji": "箱",
+        "kunyomi": [
+            "はこ"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-11-13",
+        "english": "idea / imagination",
+        "kanji": "想",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "そう"
+        ]
+    },
+    {
+        "added": "2014-11-13",
+        "english": "prohibition",
+        "kanji": "禁",
+        "kunyomi": [
+            "きん"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-11-13",
+        "english": "fruit / result",
+        "kanji": "果",
+        "kunyomi": [
+            "くだ",
+            "は"
+        ],
+        "onyomi": [
+            "か"
+        ]
     }
 ]
