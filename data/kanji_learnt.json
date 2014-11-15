@@ -3803,5 +3803,49 @@
         "onyomi": [
             "れん"
         ]
+    },
+    {
+        "added": "2014-11-15",
+        "english": "guide / proposal",
+        "kanji": "案",
+        "kunyomi": [
+            "あん"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-11-15",
+        "english": "one cup of liquid",
+        "kanji": "杯",
+        "kunyomi": [
+            ""
+        ],
+        "onyomi": [
+            "はい"
+        ]
+    },
+    {
+        "added": "2014-11-15",
+        "english": "knee or lap",
+        "kanji": "膝",
+        "kunyomi": [
+            "ひざ"
+        ],
+        "onyomi": [
+            ""
+        ]
+    },
+    {
+        "added": "2014-11-15",
+        "english": "guarantee / maintain",
+        "kanji": "保",
+        "kunyomi": [
+            "たも"
+        ],
+        "onyomi": [
+            "ほ"
+        ]
     }
 ]
